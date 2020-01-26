@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  keyword: MyString
+  url: MyText
+  date: 2020-01-26
+  value: 1
+
+two:
+  keyword: MyString
+  url: MyText
+  date: 2020-01-26
+  value: 1
